@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Riyadh1963
-- 👀 I’m interested in C,CPP,Java,JavaFX,Win32API, and assemply programming
+- 👀 I’m interested in C,CPP,Java,JavaFX,Win32API, and assembly programming
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
